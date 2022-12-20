@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4d244cd.css",
-    "main.js": "/static/js/main.cab5a81d.js",
-    "index.html": "/index.html",
-    "main.a4d244cd.css.map": "/static/css/main.a4d244cd.css.map",
-    "main.cab5a81d.js.map": "/static/js/main.cab5a81d.js.map"
+    "main.css": "./static/css/main.535f2315.css",
+    "main.js": "./static/js/main.1141a778.js",
+    "static/media/OmaHoksLogo_256x120.png": "./static/media/OmaHoksLogo_256x120.297fd1196d121e4ecb96.png",
+    "index.html": "./index.html",
+    "main.535f2315.css.map": "./static/css/main.535f2315.css.map",
+    "main.1141a778.js.map": "./static/js/main.1141a778.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4d244cd.css",
-    "static/js/main.cab5a81d.js"
+    "static/css/main.535f2315.css",
+    "static/js/main.1141a778.js"
   ]
 }
